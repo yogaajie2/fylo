@@ -1,0 +1,9 @@
+.bg-curve {
+  background-image: url('~assets/img/bg-curve-mobile.svg');
+}
+
+@media only screen and (min-width: 1024px) {
+  .bg-curve {
+    background-image: url('~assets/img/bg-curve-desktop.svg');
+  }
+}
